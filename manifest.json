@@ -1,0 +1,27 @@
+{
+  "item": {
+    "name": "亮度调节",
+    "description": "读取当前屏幕亮度并显示原始值，支持最暗/最亮一键切换与 25%/50%/75% 快捷预设，也可按 25 递进微调。",
+    "preview": [
+      "cover.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/w2517/AstroBox_Brightness",
+    "author": [
+      {
+        "name": "w2517",
+        "author_url": "https://github.com/w2517"
+      }
+    ]
+  },
+  "downloads": {
+    "o66": {
+      "version": "1.0.2",
+      "file_name": "rpk/com.vela.brightness.rpk"
+    },
+    "o66nfc": {
+      "version": "1.0.2",
+      "file_name": "rpk/com.vela.brightness.rpk"
+    }
+  }
+}
